@@ -1,3 +1,9 @@
 thumbnail: CISP2024-Burned-Area-Argentinia-2001-2019-figure.png
-description: |
-  Latitudinal assessment of burned area in the Argentinian Andean-Patagonian Forest during 2001-2019 fire seasons. This study analyzes satellite-derived burned area data to identify key regions impacted by fires, revealing the complex relationship between fires and climatic/geographic variability in this biodiverse temperate forest ecosystem.
+tags:
+  domains:
+  - fire
+  - argentina
+  packages:
+  - package1
+  - p2
+  - p3
