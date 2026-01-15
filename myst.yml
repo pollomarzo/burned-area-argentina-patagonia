@@ -1,6 +1,7 @@
 version: 1
 extends:
 - https://raw.githubusercontent.com/pollomarzo/scholar-nexus/main/nexus.yml
+- https://raw.githubusercontent.com/pollomarzo/scholar-nexus-paper-config/main/paper-base.yml
 
 project:
   authors:
@@ -49,10 +50,3 @@ project:
   downloads:
   - file: CISP2024-Burned-Area-Argentinia-2001-2019-supp-material.zip
     title: Supplementary Material
-  # plugins:
-  # - github-issues.mjs
-
-site:
-  template: book-theme
-  options:
-    hide_toc: true
