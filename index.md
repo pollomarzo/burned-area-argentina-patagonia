@@ -8,6 +8,13 @@ keywords:
     - Conservation Strategies
 ---
 
+# Seminar presentation
+```{iframe} https://www.youtube.com/embed/XmeMZ7xJxeI
+:width: 100%
+
+This article was presented as part of a series of seminars chaired by scientists from Climatematch Academy’s collaborating organizations, CMIP (Couple Model Intercomparison Project) and LEAP (Learning the Earth with Artificial Intelligence and Physics).
+```
+
 # Contextualization
 
 The Argentinian Andean-Patagonian Forest (AAPF) is a highly biodiverse temperate forest, which provides numerous ecosystem services and is home to endemic flora (e.g. Nothofagus, Misondendraceas, and Fitzroya) and fauna @amorosoRegionPatagonicaBosques2021. It borders the Chilean Andes to the west and the Patagonian Desert to the east. Conservation of such an important region led to the creation of national parks such as the "Nahuel Huapi National Park" and the "Los Glaciares National Park" in Argentina. The AAPF is also known for being continuously disturbed by fires that determine its floristic structure and composition @matteucciBreveDescripcionRegiones2021.
