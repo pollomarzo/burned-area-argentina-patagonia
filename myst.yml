@@ -46,6 +46,10 @@ project:
 
   id: burned-area-argentina-patagonia
   title: Latitudinal assessment of burned area in the Argentinian Andean-Patagonian Forest during 2001-2019 fire seasons
+  keywords:
+    - Argentinian Forest
+    - Satellite Imaging
+    - Conservation Strategies
   github: https://github.com/pollomarzo/burned-area-argentina-patagonia
   bibliography:
   - bib.bib
